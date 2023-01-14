@@ -1,5 +1,7 @@
 # Strongly Typed by HTML5Up #
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/3f09c607-fe81-40fe-9e70-e49e342f8814/deploy-status)](https://nuxt-strongly-typed.netlify.app)
+
 Nuxt 3 port of [HTML5Up's Strongly Typed](https://html5up.net/strongly-typed).
 
 ## Setup
@@ -7,7 +9,7 @@ Nuxt 3 port of [HTML5Up's Strongly Typed](https://html5up.net/strongly-typed).
 Make sure to install the dependencies:
 
 ```bash
-pnpm install --shamefully-hoist
+pnpm install
 ```
 
 ## Development Server
